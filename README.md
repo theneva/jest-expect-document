@@ -4,4 +4,4 @@
 2. Wait
 3. Get error messages about Jest running out of heap space
 
-![image](https://github.com/theneva/jest-expect-document/tree/master/image.png)
+![image](https://raw.githubusercontent.com/theneva/jest-expect-document/master/image.png)
