@@ -1,0 +1,10 @@
+{
+  "name": "jest-expect-document",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Martin Lehmann <martin@lehmann.tech>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
